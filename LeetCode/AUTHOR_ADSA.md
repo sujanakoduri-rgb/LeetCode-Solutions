@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs Advanced DSA interview preparation list.
 
 ## Progress
-- **Completed:** 5 / 65 (7.7%)
+- **Completed:** 6 / 65 (9.2%)
 
 ---
 
@@ -62,7 +62,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 - [x] [Delete Nodes From Linked List Present in Array](./Java/Medium/3501. Delete Nodes From Linked List Present in Array/)
 
 ### 📂 Module  2.1: Stack Fundamentals & Simula
-- [ ] Baseball Game
+- [x] [Baseball Game](./Java/Easy/682. Baseball Game/)
 - [ ] Validate Stack Sequences
 
 ### 📂 Module  2.2: Parentheses & Bracket Patte
