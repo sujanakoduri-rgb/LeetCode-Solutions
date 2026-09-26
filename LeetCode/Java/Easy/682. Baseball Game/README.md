@@ -1,6 +1,6 @@
 # 📝 682. Baseball Game (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/baseball-game/?envType=problem-list-v2&envId=stack)
+🔗 [Problem Link](https://leetcode.com/problems/baseball-game/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
