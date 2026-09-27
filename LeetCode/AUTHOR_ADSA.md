@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs Advanced DSA interview preparation list.
 
 ## Progress
-- **Completed:** 6 / 65 (9.2%)
+- **Completed:** 7 / 65 (10.8%)
 
 ---
 
@@ -76,7 +76,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 - [ ] Minimum Insertions to Balance a Parentheses String
 
 ### 📂 Module  2.3: String Reduction & Transfor
-- [ ] Make The String Great
+- [x] [Make The String Great](./Java/Easy/1544. Make The String Great/)
 - [ ] Remove All Adjacent Duplicates In String
 - [ ] Remove All Adjacent Duplicates in String II
 - [ ] Remove All Occurrences of a Substring
