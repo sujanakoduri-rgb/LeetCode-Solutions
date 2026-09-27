@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs Advanced DSA interview preparation list.
 
 ## Progress
-- **Completed:** 10 / 65 (15.4%)
+- **Completed:** 11 / 65 (16.9%)
 
 ---
 
@@ -20,7 +20,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 
 ### 📂 Module  1.2: Insertion, Deletion & Posit
 - [x] [Remove Nth Node From End of List](./Java/Medium/19. Remove Nth Node From End of List/)
-- [ ] Rotate List
+- [x] [Rotate List](./Java/Medium/61. Rotate List/)
 - [ ] Reverse Linked List II
 - [ ] Odd Even Linked List
 - [ ] Merge In Between Linked Lists
