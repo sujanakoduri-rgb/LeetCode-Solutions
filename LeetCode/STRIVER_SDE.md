@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 2 / 76 (2.6%)
+- **Completed:** 3 / 76 (3.9%)
 
 ---
 
@@ -37,7 +37,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [ ] Middle of the Linked List
 - [ ] Merge Two Sorted Lists
 - [ ] Remove Nth Node From End of List
-- [ ] Add Two Numbers
+- [x] [Add Two Numbers](./Java/Medium/2. Add Two Numbers/)
 - [x] [Delete Node in a Linked List](./Java/Medium/237. Delete Node in a Linked List/)
 - [ ] Intersection of Two Linked Lists
 - [x] [Linked List Cycle](./Java/Easy/141. Linked List Cycle/)
