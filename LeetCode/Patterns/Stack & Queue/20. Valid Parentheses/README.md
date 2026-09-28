@@ -1,6 +1,6 @@
 # 📝 20. Valid Parentheses (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/valid-parentheses/)
+🔗 [Problem Link](https://leetcode.com/problems/valid-parentheses/?envType=problem-list-v2&envId=stack)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
