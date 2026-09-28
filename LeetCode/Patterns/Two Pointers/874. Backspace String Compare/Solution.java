@@ -26,6 +26,6 @@ class Solution {
                 return false;
             }
         }
-        return true;
+        return st.isEmpty() && ts.isEmpty();
     }
 }
