@@ -4,8 +4,8 @@ class Solution {
         Stack<Character> ts = new Stack<>();
         for(int i=0;i<s.length();i++){
             char ch = s.charAt(i);
-            if(!st.isEmpty() && ch == '#'){
-                st.pop();
+            if(ch == '#'){
+                if(!st.isEmpty())st.pop();
             }
             else{
                 st.push(ch);
@@ -13,8 +13,8 @@ class Solution {
         }
         for(int i=0;i<t.length();i++){
             char c = t.charAt(i);
-            if(!ts.isEmpty() && c == '#'){
-                ts.pop();
+            if(c == '#'){
+                if(!ts.isEmpty())ts.pop();
             }
             else{
                 ts.push(c);
@@ -26,6 +26,6 @@ class Solution {
                 return false;
             }
         }
-        return st.isEmpty() && ts.isEmpty();
+       return st.isEmpty() && ts.isEmpty();
     }
 }
