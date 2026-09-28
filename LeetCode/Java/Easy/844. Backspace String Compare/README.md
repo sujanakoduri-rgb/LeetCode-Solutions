@@ -1,6 +1,6 @@
 # 📝 844. Backspace String Compare (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/backspace-string-compare)
+🔗 [Problem Link](https://leetcode.com/problems/backspace-string-compare/?envType=problem-list-v2&envId=stack)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
