@@ -12,6 +12,6 @@ class Solution {
                 st.pop();
             }
         }
-        return true;
+        return st.isEmpty();
     }
 }
