@@ -19,7 +19,7 @@ class Solution {
 
         int req = (sum + target) / 2;
 
-        int dp[][] = new int[n + 1][req + 1];
+        int[][] dp = new int[n + 1][req + 1];
 
         for(int i = 0; i <= n; i++) {
             dp[i][0] = 1;
@@ -27,8 +27,10 @@ class Solution {
 
         for(int i = 1; i <= n; i++) {
 
-            for(int j = 1; j <= req; j++) {
+            for(int j = 0; j <= req; j++) {
+
                 dp[i][j] = dp[i - 1][j];
+
                 if(nums[i - 1] <= j) {
                     dp[i][j] += dp[i - 1][j - nums[i - 1]];
                 }
