@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs Advanced DSA interview preparation list.
 
 ## Progress
-- **Completed:** 18 / 65 (27.7%)
+- **Completed:** 19 / 65 (29.2%)
 
 ---
 
@@ -71,7 +71,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 - [ ] Maximum Nesting Depth of the Parentheses
 - [x] [Remove Outermost Parentheses](./Java/Easy/1021. Remove Outermost Parentheses/)
 - [x] [Score of Parentheses](./Java/Medium/886. Score of Parentheses/)
-- [ ] Minimum Add to Make Parentheses Valid
+- [x] [Minimum Add to Make Parentheses Valid](./Java/Medium/957. Minimum Add to Make Parentheses Valid/)
 - [ ] Minimum Remove to Make Valid Parentheses
 - [ ] Minimum Insertions to Balance a Parentheses String
 
