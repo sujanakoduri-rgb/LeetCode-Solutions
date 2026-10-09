@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs Advanced DSA interview preparation list.
 
 ## Progress
-- **Completed:** 19 / 65 (29.2%)
+- **Completed:** 20 / 65 (30.8%)
 
 ---
 
@@ -73,7 +73,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 - [x] [Score of Parentheses](./Java/Medium/886. Score of Parentheses/)
 - [x] [Minimum Add to Make Parentheses Valid](./Java/Medium/957. Minimum Add to Make Parentheses Valid/)
 - [ ] Minimum Remove to Make Valid Parentheses
-- [ ] Minimum Insertions to Balance a Parentheses String
+- [x] [Minimum Insertions to Balance a Parentheses String](./Java/Medium/1541. Minimum Insertions to Balance a Parentheses String/)
 
 ### 📂 Module  2.3: String Reduction & Transfor
 - [x] [Make The String Great](./Java/Easy/1666. Make The String Great/)
